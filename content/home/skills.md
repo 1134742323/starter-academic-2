@@ -16,13 +16,13 @@ subtitle = ""
 
 [[feature]]
   icon = "code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Fortran"
  # description = "90%"
   
 [[feature]]
   icon = "brackets"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Matlab"
  # description = "100%"  
   
