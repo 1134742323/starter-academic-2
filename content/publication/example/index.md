@@ -17,7 +17,7 @@ author_notes:
 - "First author"
 - "Corresponding author"
 
-date: "2020-07-01T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 doi: "10.3311/PPci.16929"
 
 # Schedule page publish date (NOT publication's date).
@@ -69,8 +69,9 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
