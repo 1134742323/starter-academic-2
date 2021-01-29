@@ -57,7 +57,7 @@ social:
   link: https://www.researchgate.net/profile/Zihan_Liu24
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/%E5%AD%90%E5%AF%92-%E5%88%98-699b7115a/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume（命名为demo_resume.pdf） to `static/media/resume.pdf`, enable `ai` icons in `params.toml`（建议搜索一下，有两个同名文件）, 
