@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    exclude_featured: false    # 这里选ture就是排除featured publication之外的，再显示
 design:
   # Choose a view for the listings:
   #   1 = List

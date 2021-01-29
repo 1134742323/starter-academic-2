@@ -1,38 +1,42 @@
 ---
-title: "An example conference paper"
+title: "Damage Effect of Terrorist Attack Explosion-induced Shock Wave in a Double-deck Island Platform Metro Station"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Nan Jiang
+- Chuanbo Zhou
+- Lin Ji
+- Xuedong Luo
+
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First author"
+- "Corresponding author"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-07-01T00:00:00Z"
+doi: "10.3311/PPci.16929"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Periodica Polytechnica Civil Engineering*
+publication_short: In *PERIOD POLYTECH-CIV*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The objective of this research was to reasonably assess the damage to people and station structures caused by terrorist attack explosion at metro stations, taking the Liyuan station of Wuhan metro which adopts double-deck island platform as an typical example. The TNT explosion process inside the metro station was calculated and analyzed using the dynamic finite element numerical simulation software LS-DYNA. First, the peak overpressure curve and the positive pressure time curve of the shock wave of explosive under the condition of confined space in the metro station were obtained. Then, through the comparison and analysis of the theoretical formulas of explosive shock wave propagation characteristics, the accuracy and reliability of numerical calculation methods and model parameters were verified. At last, combining with the overpressure criterion of shock wave in explosive air, the distribution characteristics of the casualties in the metro station under the explosion shock wave are analyzed, and the dynamic response and damage effect of the pillar structure of the metro station under the explosion shock wave are studied.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The objective of this research was to reasonably assess the damage to people and station structures caused by terrorist attack explosion at metro stations, taking the Liyuan station of Wuhan metro which adopts double-deck island platform as an typical example. The TNT explosion process inside the metro station was calculated and analyzed using the dynamic finite element numerical simulation software LS-DYNA. First, the peak overpressure curve and the positive pressure time curve of the shock wave of explosive under the condition of confined space in the metro station were obtained. Then, through the comparison and analysis of the theoretical formulas of explosive shock wave propagation characteristics, the accuracy and reliability of numerical calculation methods and model parameters were verified. At last, combining with the overpressure criterion of shock wave in explosive air, the distribution characteristics of the casualties in the metro station under the explosion shock wave are analyzed, and the dynamic response and damage effect of the pillar structure of the metro station under the explosion shock wave are studied.
 
 tags: []
 
