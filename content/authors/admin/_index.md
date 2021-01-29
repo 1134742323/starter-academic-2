@@ -52,6 +52,9 @@ social:
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Zihan_Liu24
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
