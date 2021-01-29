@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "brackets"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Matlab"
  # description = "100%"  
   
