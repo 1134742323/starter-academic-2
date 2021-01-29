@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "function"
+  icon = "code"
   icon_pack = "fab"
   name = "Fortran"
  # description = "90%"
