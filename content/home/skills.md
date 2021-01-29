@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "code"
+  icon = "function"
   icon_pack = "fas"
   name = "Fortran"
  # description = "90%"
@@ -36,6 +36,12 @@ subtitle = ""
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
+#  description = "10%"
+
+[[feature]]
+  icon = "basketball-ball"
+  icon_pack = "fas"
+  name = "basketball"
 #  description = "10%"
 
 # Uncomment to use emoji icons.
