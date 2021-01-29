@@ -21,6 +21,7 @@ interests:
 - Rock mechanic
 - Fracture mechanic
 - Finite element method (FEM)
+- Blast dynamics
 
 # Education to show in About widget
 education:
