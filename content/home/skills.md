@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "function"
-  icon_pack = "far"
+  icon_pack = "fab"
   name = "Fortran"
  # description = "90%"
   
