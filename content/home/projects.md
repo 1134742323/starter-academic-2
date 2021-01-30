@@ -32,6 +32,8 @@ content:
     tag: Contest
   - name: Previous Honors
     tag: Previous Honors
+  - name: Certificates
+    tag: Certificates
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

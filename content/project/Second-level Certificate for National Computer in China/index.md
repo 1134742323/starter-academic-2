@@ -1,8 +1,8 @@
 ---
-title: Fourth-level Certificate for National Computer in China
-summary: Network engineer
+title: Second-level Certificate for National Computer in China
+summary: C language programming
 tags:
-- Previous Honors
+- Certificates
 date: "2016-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
