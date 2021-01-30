@@ -33,8 +33,8 @@ subtitle = ""
  # description = "100%" 
 
 [[feature]]
-  icon = "analytics"
-  icon_pack = "far"
+  icon = "chart-line"
+  icon_pack = "fas"
   name = "Mathematical Modeling"
 #  description = "10%"
 
