@@ -1,6 +1,6 @@
 ---
-title: Excellent Intern —— Jun. 2016
-summary: in the Qinhuangdao Practice Base of China University of Geosciences
+title: University-level outstanding student cadres —— Oct. 2017
+summary: China University of Geosciences
 tags:
 - Previous Honors
 date: "2016-06-27T00:00:00Z"
