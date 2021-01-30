@@ -30,8 +30,8 @@ content:
     tag: '*'
   - name: Contest
     tag: Contest
-  - name: Other
-    tag: Demo
+  - name: Previous Honors
+    tag: Previous Honors
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
