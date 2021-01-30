@@ -16,7 +16,7 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
+  # Email form provider #注释掉下面的部分，就可以使contact部分的三个文本框消失
   # form:
   #   provider: netlify
   #   formspree:
