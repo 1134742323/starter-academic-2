@@ -1,9 +1,9 @@
 ---
-title: Honorable Mention —— Mar. 2018
-summary: in the American Mathematical Contest in Modeling (MCM)
+title: Second Prize —— Jul. 2017
+summary: in the Physics Competition of China University of Geosciences
 tags:
 - Contest
-date: "2018-03-07T00:00:00Z"
+date: "2017-07-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
