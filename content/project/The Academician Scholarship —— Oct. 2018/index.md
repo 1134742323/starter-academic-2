@@ -1,6 +1,6 @@
 ---
-title: The Academician Scholarship of China University of Geosciences —— Oct. 2018
-summary: 
+title: The Academician Scholarship —— Oct. 2018
+summary: China University of Geosciences
 tags:
 - Previous Honors
 date: "2016-06-27T00:00:00Z"

@@ -1,5 +1,5 @@
 ---
-title: Third Prize of the 19 —— Nov.2017
+title: Third Prize —— Nov.2017
 summary: in the 19th Science and Technology Paper Conference of China University of Geosciences
 tags:
 - Contest

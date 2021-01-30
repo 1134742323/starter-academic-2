@@ -1,6 +1,6 @@
 ---
-title: Second-level Certificate for National Computer in China
-summary: C language programming
+title: The Dean Scholarship —— Oct. 2017
+summary: China University of Geosciences
 tags:
 - Previous Honors
 date: "2016-06-27T00:00:00Z"
