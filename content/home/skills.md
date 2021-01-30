@@ -34,7 +34,7 @@ subtitle = ""
 
 [[feature]]
   icon = "analytics"
-  icon_pack = "fab"
+  icon_pack = "far"
   name = "Mathematical Modeling"
 #  description = "10%"
 
