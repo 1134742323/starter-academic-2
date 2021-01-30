@@ -4,7 +4,7 @@ summary: in the 19th Science and Technology Paper Conference of China University
 tags:
 - Contest
 date: "2016-04-27T00:00:00Z"
-the 19 th Science and Technology Paper Conference of China University of Geosciences
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
