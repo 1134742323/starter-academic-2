@@ -1,6 +1,6 @@
 ---
-title: Second-level Certificate for National Computer in China
-summary: C language programming
+title: Fourth-level Certificate for National Computer in China
+summary: Network engineer
 tags:
 - Previous Honors
 date: "2016-06-27T00:00:00Z"
