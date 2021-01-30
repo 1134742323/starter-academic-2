@@ -74,7 +74,7 @@ email: "zihanliu@sjtu.edu.cn"
 highlight_name: false
 ---
 
-Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong University. His research interests include rock mechanic, fracture mechanic and finite element method. 
+Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong University who will graduate in January, 2022. His research interests include rock mechanic, fracture mechanic and finite element method. 
 
 Now, I'm wondering a PhD position.
 
