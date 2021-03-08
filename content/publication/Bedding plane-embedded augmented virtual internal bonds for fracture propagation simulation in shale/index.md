@@ -38,7 +38,7 @@ approach can represent the anisotropic properties induced by parallel BPs. Throu
 example, it is found that this method can simulate the stiffness anisotropy of shale and can
 represent the effect of BPs on hydraulic fracture propagation direction. Compared with the
 BP-embedded VIB, this method can account for the various Poisson’s ratio. It provides a feasible
-approach to simulate the fracture propagation in shale. 
+approach to simulate the fracture propagation in shale.
 
 # Summary. An optional shortened abstract.
 # summary: The objective of this research was to reasonably assess the damage to people and station structures caused by terrorist attack explosion at metro stations, taking the Liyuan station of Wuhan metro which adopts double-deck island platform as an typical example. The TNT explosion process inside the metro station was calculated and analyzed using the dynamic finite element numerical simulation software LS-DYNA. First, the peak overpressure curve and the positive pressure time curve of the shock wave of explosive under the condition of confined space in the metro station were obtained. Then, through the comparison and analysis of the theoretical formulas of explosive shock wave propagation characteristics, the accuracy and reliability of numerical calculation methods and model parameters were verified. At last, combining with the overpressure criterion of shock wave in explosive air, the distribution characteristics of the casualties in the metro station under the explosion shock wave are analyzed, and the dynamic response and damage effect of the pillar structure of the metro station under the explosion shock wave are studied.
