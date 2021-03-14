@@ -1,6 +1,6 @@
 ---
 title: Zihan gave a talk in The 4th National Symposium on Geotechnical Constitutive Theory
-subtitle: Welcome 👋 
+subtitle: A online talk 💬
 
 # Summary for listings and search engines
 summary: The symposium has been held at Hohai University (Nanjing, China) from November 13th to 15th, 2020
@@ -42,6 +42,7 @@ authors:
 The talk content is entitled ‘The constitutive of virtual internal bond considering time effect and its application in the analysis of oil and gas reservoir evolution’. You are welcome to download the content attached blow. 
 - 👉 {{% staticref "media/The constitutive of VIB considering time effect.pdf" "newtab" %}}Download the talk content{{% /staticref %}}
 
+{{< figure src="Proof of Participation.png" caption="Proof of Participation" >}}
 <!-- ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
