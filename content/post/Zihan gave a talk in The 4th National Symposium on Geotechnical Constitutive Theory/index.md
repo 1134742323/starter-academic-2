@@ -39,8 +39,8 @@ authors:
 # - Demo
 # - 教程
 ---
-
-{{% staticref "media/The constitutive of VIB considering time effect.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+The talk content is entitled ‘The constitutive of virtual internal bond considering time effect and its application in the analysis of oil and gas reservoir evolution’. You are welcome to download the content attached blow. 
+- 👉 {{% staticref "media/The constitutive of VIB considering time effect.pdf" "newtab" %}}Download the talk content{{% /staticref %}}
 
 <!-- ## Overview
 
@@ -104,4 +104,3 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license. -->
- -->
