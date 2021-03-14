@@ -42,7 +42,7 @@ authors:
 The talk content is entitled ‘{{< hl >}}The constitutive of virtual internal bond considering time effect and its application in the analysis of oil and gas reservoir evolution{{< /hl >}}’. You are welcome to download the content attached blow. 
 - 👉 {{% staticref "media/The constitutive of VIB considering time effect.pdf" "newtab" %}}Download the talk content{{% /staticref %}}
 
-{{< figure src="Proof of Participation.png" caption="Fig.1 Proof of Participation1" >}}
+{{< figure src="Proof of Participation.png" caption="**Fig.1 Proof of Participation1**" >}}
 <!-- ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
