@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Fortran"
+  name = "Fortran/C programming"
  # description = "90%"
   
 [[feature]]
