@@ -28,8 +28,8 @@ publishDate: "2021-04-30T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Theoretical and Applied Mechanics Letters*
-publication_short: In *Theoretical and Applied Mechanics Letters*
+publication: In *Theoretical and Applied Mechanics Letters* (Online)
+publication_short: In *Theoretical and Applied Mechanics Letters* (Online)
 
 abstract: Abstract：To effectively simulate the fracture propagation in shale, the bedding plane (BP) effect is incorporated into the augmented virtual internal bond (AVIB) constitutive relation through BP tensor. Comparing the BP-embedded AVIB with the theory of transverse isotropy, it is found the approach can represent the anisotropic properties induced by parallel BPs. Through the simulation example, it is found that this method can simulate the stiffness anisotropy of shale and can represent the effect of BPs on hydraulic fracture propagation direction. Compared with the BP-embedded VIB, this method can account for the various Poisson’s ratio. It provides a feasible approach to simulate the fracture propagation in shale.
 

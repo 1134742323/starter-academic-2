@@ -29,8 +29,8 @@ publishDate: "2020-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Journal of Protective Structures*
-publication_short: In *International Journal of Protective Structures*
+publication: In *International Journal of Protective Structures.* VOL. 11 NO. 3 (2020)
+publication_short: In *International Journal of Protective Structures.* VOL. 11 NO. 3 (2020)
 
 Abstract: Abstract：In the blasting construction of new tunnels adjacent to existing tunnels, it is important to properly evaluate and control the influence of blasting vibration. In this study, the peak particle velocity of the lining structure of the Huanglongshan highway tunnel (i.e. the existing tunnel) in Wuhan, China, which was adjacent to a tunnel under construction by blasting, was monitored and analyzed. The numerical model of the existing tunnel was established by the dynamic finite element software LS-DYNA, and the reliability of the model and parameter selections were verified based on the field monitoring data. The relationship between peak particle velocity and effective tensile stress of the tunnel lining structure was proposed based on the combination of measured peak particle velocity, dynamic stress distribution characteristics, and numerical simulations under different blasting conditions. Based on the maximum tensile stress criterion and considering the dynamic tensile strength increase factor of lining material, the safety threshold of peak particle velocity for existing tunnel lining structure and the maximum charge weight for new tunnel blasting were suggested.
 
