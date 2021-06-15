@@ -76,6 +76,6 @@ highlight_name: false
 
 Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong University who will graduate in January, 2022. His research interests include rock mechanics, fracture mechanics and finite element method. He is a student member of the Chinese Society of Rock Mechanics and Engineering.
 
-Now, I'm wondering a PhD position.
+Now, I'm looking for a PhD position.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
