@@ -14,12 +14,12 @@ organizations:
   url: http://naoce.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include rock mechanic, fracture mechanic and finite element method.
+bio: My research interests include rock mechanics, fracture mechanics and finite element method.
 
 # Interests to show in About widget
 interests:
-- Rock mechanic
-- Fracture mechanic
+- Rock mechanics
+- Fracture mechanics
 - Finite element method (FEM)
 - Blast dynamics
 
@@ -74,7 +74,7 @@ email: "zihanliu@sjtu.edu.cn"
 highlight_name: false
 ---
 
-Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong University who will graduate in January, 2022. His research interests include rock mechanic, fracture mechanic and finite element method. He is a student member of the Chinese Society of Rock Mechanics and Engineering.
+Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong University who will graduate in January, 2022. His research interests include rock mechanics, fracture mechanics and finite element method. He is a student member of the Chinese Society of Rock Mechanics and Engineering.
 
 Now, I'm wondering a PhD position.
 
