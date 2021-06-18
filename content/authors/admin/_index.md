@@ -78,4 +78,4 @@ Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong Univers
 
 Now, I'm looking for a PhD position.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Zihan_liu_2022_SJTU.pdf" "newtab" >}}resumé{{< /staticref >}}.
