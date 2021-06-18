@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/Zihan_liu_2022_SJTU.pdf
+  link: media/Zihan_Liu_2022_SJTU.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zihanliu@sjtu.edu.cn"
@@ -78,4 +78,4 @@ Zihan Liu is a master student of civil engineering at Shanghai Jiao Tong Univers
 
 Now, I'm looking for a PhD position.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Zihan_liu_2022_SJTU.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Zihan_Liu_2022_SJTU.pdf" "newtab" >}}resumé{{< /staticref >}}.
