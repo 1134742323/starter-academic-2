@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/demo_resume.pdf
+  link: media/Zihan liu_2022_SJTU.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zihanliu@sjtu.edu.cn"
