@@ -1,9 +1,9 @@
 ---
-title: Zihan will take part in The Deep Underground Energy Hard Rock Forum 2021
-subtitle: The Deep Underground Energy Hard Rock Forum 2021 💬
+title: Zihan will take part in The Chinese Mechanics Congress 2021
+subtitle: The Chinese Mechanics Congress 2021 💬
 
 # Summary for listings and search engines
-summary: The symposium will be held in Chengdu, China from August 1st to 4th, 2021
+summary: The Congress will be held in Chengdu, China from August 1st to 4th, 2021
 
 # Link this post with a project
 projects: []
@@ -39,6 +39,9 @@ authors:
 # - Demo
 # - 教程
 ---
+The talk content is entitled ‘{{< hl >}}The constitutive of Bedding plane-embedded augmented virtual internal bonds and its application in the analysis of oil and gas reservoir evolution{{< /hl >}}’. You are welcome to download the content attached blow. 
+- 👉 {{% staticref "media/Bedding plane-embedded augmented virtual internal bonds for fracture propagation simulation in shale.pdf" "newtab" %}}Download the poster{{% /staticref %}}
+
 <!-- The talk content is entitled ‘{{< hl >}}The constitutive of virtual internal bond considering time effect and its application in the analysis of oil and gas reservoir evolution{{< /hl >}}’. You are welcome to download the content attached blow. 
 - 👉 {{% staticref "media/The constitutive of VIB considering time effect.pdf" "newtab" %}}Download the talk content{{% /staticref %}}
 
