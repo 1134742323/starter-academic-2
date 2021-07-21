@@ -1,9 +1,9 @@
 ---
-title: Zihan will take part in The Deep Underground Energy Hard Rock Forum 2021
+title: Zihan took part in The Deep Underground Energy Hard Rock Forum 2021
 subtitle: The Deep Underground Energy Hard Rock Forum 2021 💬
 
 # Summary for listings and search engines
-summary: The symposium will be held in Dalian, China from June 21th to 23th, 2021
+summary: The symposium held in Dalian, China from June 21th to 23th, 2021
 
 # Link this post with a project
 projects: []
